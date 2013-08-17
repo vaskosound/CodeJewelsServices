@@ -301,6 +301,10 @@
       <Project>{1c1099a8-7201-4c06-a938-e656d691ee67}</Project>
       <Name>CodeJewels.DataLayer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CodeJewels.Models\CodeJewels.Models.csproj">
+      <Project>{713d265b-f554-4daf-9379-643e7a48b814}</Project>
+      <Name>CodeJewels.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

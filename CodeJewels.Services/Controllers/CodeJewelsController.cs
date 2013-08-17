@@ -1,4 +1,5 @@
 ﻿using CodeJewels.DataLayer;
+using CodeJewels.Models;
 using CodeJewels.Services.Models;
 using System;
 using System.Collections.Generic;
