@@ -13,10 +13,10 @@ namespace CodeJewels.DataLayer
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class CodeJewelsDBEntities : DbContext
+    public partial class CodeJewelsDB : DbContext
     {
-        public CodeJewelsDBEntities()
-            : base("name=CodeJewelsDBEntities")
+        public CodeJewelsDB()
+            : base("name=CodeJewelsDB")
         {
         }
     

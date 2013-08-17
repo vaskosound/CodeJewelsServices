@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="bd30ef282b444564b74b7f38d70b36de" Name="Diagram1">
+      <Diagram DiagramId="9944e1c6f098491aa97d72fa48f8b72f" Name="Diagram1">
         <EntityTypeShape EntityType="CodeJewelsDBModel.Category" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
         <EntityTypeShape EntityType="CodeJewelsDBModel.CodeJewel" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
         <EntityTypeShape EntityType="CodeJewelsDBModel.sysdiagram" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
