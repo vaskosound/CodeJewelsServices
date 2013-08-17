@@ -17,7 +17,7 @@ namespace CodeJewels.Services.Controllers
 
         public CodeJewelsController()
         {
-            this.context = new CodeJewelsDBEntities();
+            this.context = new CodeJewelsDB();
             this.entitySet = context.Set<CodeJewel>();
         }
 
