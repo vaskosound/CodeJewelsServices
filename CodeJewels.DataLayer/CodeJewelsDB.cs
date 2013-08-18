@@ -18,5 +18,6 @@ namespace CodeJewels.DataLayer
 
         public DbSet<CodeJewel> CodeJe { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Email> Emails { get; set; }
     }
 }

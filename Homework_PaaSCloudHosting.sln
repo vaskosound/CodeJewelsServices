@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.Services", "Code
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.Models", "CodeJewels.Models\CodeJewels.Models.csproj", "{713D265B-F554-4DAF-9379-643E7A48B814}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMailsHook", "SendMailsHook\SendMailsHook.csproj", "{21BCF1BD-092B-4838-BB22-1EDFBF5F863E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{713D265B-F554-4DAF-9379-643E7A48B814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{713D265B-F554-4DAF-9379-643E7A48B814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{713D265B-F554-4DAF-9379-643E7A48B814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BCF1BD-092B-4838-BB22-1EDFBF5F863E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BCF1BD-092B-4838-BB22-1EDFBF5F863E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BCF1BD-092B-4838-BB22-1EDFBF5F863E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BCF1BD-092B-4838-BB22-1EDFBF5F863E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
